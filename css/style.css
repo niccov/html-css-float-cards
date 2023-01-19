@@ -1,0 +1,15 @@
+*{
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+h1{
+    font-size: 50px;
+    color: red;
+    font-family:font-family:'Fredoka', sans-serif;
+    text-align: center;
+}
+
+section p{
+    text-align: center;
+}
