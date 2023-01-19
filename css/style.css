@@ -1,15 +1,61 @@
 *{
     margin-left: 70px;
     margin-right: 70px;
+    font-family:'Fredoka', sans-serif;
 }
 
 h1{
     font-size: 50px;
     color: red;
-    font-family:font-family:'Fredoka', sans-serif;
     text-align: center;
 }
 
 section p{
     text-align: center;
+}
+
+main{
+    content:"";
+    display: table;
+    clear: both;
+}
+
+.container{
+    height: 90px;
+    width: 270px;
+    float: left;
+    background-color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+main .container img{
+    margin: 0px;
+    height: 90px;
+    width: 90px;
+    float: left;
+}
+
+h4{
+    color: white;
+    margin: 10px;
+    float: left;
+}
+
+.job{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    margin-left: 101px; 
+}
+
+span{
+    color: rgb(34, 137, 172);
+    font-size: 12px;
+    margin-bottom: 20px;
+    position: relative;
+    bottom: 30px;
+    left: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
